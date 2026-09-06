@@ -53,14 +53,14 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilnkamble7030-sys&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilnkamble7030-sys&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilnkamble7030-sys&theme=radical" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnkamble7030-sys&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilnkamble7030-sys&layout=compact&theme=radical" />
 </div>
 
 ---
